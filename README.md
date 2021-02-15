@@ -10,7 +10,7 @@ algorithm.
 
 ## Dependencies
 
-* numpy 
+* numpy (for probability density functions)
 * matplotlib
 * scipy
 * seaborn
