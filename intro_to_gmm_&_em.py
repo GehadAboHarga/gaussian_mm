@@ -47,8 +47,6 @@ data = df.x
 sns.distplot(data, bins=20, kde=False)
 
 
-# Is the normal distribution a useful model for the data?
-
 
 
 #try to fit a normal distribution to this data
